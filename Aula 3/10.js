@@ -1,4 +1,3 @@
-// Código para calcular e frete e escolher uma modalidade
 prompt = require("prompt-sync")()
 const pacote = Number(prompt("Digite o peso do pacote: "))
 let frete = prompt("Digite a modalidade de envio: ")

@@ -1,4 +1,3 @@
-// Código que informa se o triângulo é equilátero, isósceles ou escaleno
 prompt = require("prompt-sync")()
 const a = Number(prompt("Digite o primeiro número do lado: "))
 const b = Number(prompt("Digite o segundo número do lado: "))
