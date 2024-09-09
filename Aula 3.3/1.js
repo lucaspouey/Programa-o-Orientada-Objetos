@@ -1,4 +1,4 @@
-// Código para verificar se um número de cartão de crédito é válido
+
 prompt = require('prompt-sync')()
 const card_num = prompt('Digite o número do seu cartão: ')
 

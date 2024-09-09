@@ -1,4 +1,3 @@
-// Código para que recebe a idade de uma pessoa e determina se é Criança, Adolescente, Adulto, Idoso
 prompt = require("prompt-sync")()
 const idade = Number(prompt('Digite uma idade: '))
 

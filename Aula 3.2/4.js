@@ -1,4 +1,3 @@
-// Código para calcular a média de um aluno
 prompt = require("prompt-sync")()
 const nota = Number(prompt("Insira a nota: "))
 const nota2 = Number(prompt("Insira a nota: "))

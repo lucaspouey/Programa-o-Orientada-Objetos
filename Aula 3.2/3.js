@@ -1,4 +1,3 @@
-// Código para calcular comissão
 prompt = require("prompt-sync")()
 const venda = Number(prompt("Insira o valor da venda: "))
 const dez = venda * (10/100)

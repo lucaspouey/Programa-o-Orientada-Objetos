@@ -1,4 +1,3 @@
-// Código para determinar a ordem dos números (crescente, decrescente ou desordenada.)
 prompt = require("prompt-sync")()
 const num1 = Number(prompt('Digite seu primeiro número: '))
 const num2 = Number(prompt('Digite seu segundo número: '))

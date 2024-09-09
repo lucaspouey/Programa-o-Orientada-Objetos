@@ -1,4 +1,3 @@
-// Código que recebe um veículo e da informações dele
 prompt = require("prompt-sync")()
 const codigoVeiculo = prompt('Digite o código do veículo (1: Carro, 2: Moto): ');
 

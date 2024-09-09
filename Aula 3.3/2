@@ -1,4 +1,4 @@
-// Código para imprimir a estação do ano
+
 prompt = require('prompt-sync')()
 const mes = Number(prompt('Digite um mês (1 a 12): '))
 

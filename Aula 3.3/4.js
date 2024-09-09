@@ -1,4 +1,3 @@
-// Código para classificar espécies de animais
 prompt = require("prompt-sync")()
 const animal = prompt('Digite o nome de um animal: ')
 
